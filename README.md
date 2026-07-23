@@ -49,10 +49,12 @@ type MahjongRecord = {
   score: number;
   memo: string;
 };
+```
 
-```ts
 
 # 起動方法
 
+```bash
 npm install
 npm run dev
+```
